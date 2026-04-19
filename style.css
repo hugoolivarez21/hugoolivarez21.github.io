@@ -1,0 +1,27 @@
+body {
+    background-color: #c2c2bf;
+}
+h1 {
+    color: #7e6844;
+}
+h2 {
+    color:antiquewhite;
+    padding: 10px;
+}
+p {
+    color: #555864; 
+    margin: 20px;
+}
+li {
+    margin: 20px;
+    color: #555864;
+}
+div {
+    width: 150px;
+    height: 60px;
+    background-color: whitesmoke;
+    border: 10px solid black;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
